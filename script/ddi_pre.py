@@ -94,20 +94,20 @@ def create_prompt_zero_shot(mes,example):
 
 random.seed(42) 
 #read bace dataset
-ddi = pd.read_csv("data/ddi/data.csv")
+ddi = pd.read_csv("../data/ddi/data.csv")
 ddi_values =ddi.values
 labels = ddi['label']
 labels =np.array(labels)
 index_all_class = get_index(labels, EVENT_NUM, SEED, CV)
 LABEL = []
-with open('data/ddi/label.txt') as file:
+with open('../data/ddi/label.txt') as file:
     for line in file:
         print(line.strip())
         LABEL.append(line.strip())
 
 
 message = create_base_ddi_prompt(LABEL)
-dst_path = f'res/ddi/'
+dst_path = f'../res/ddi/'
 
 for k in range(CV):
     dst_csv_name = f'ddi_test_{k}.csv'
