@@ -1,0 +1,65 @@
+The metabolism decrease
+The risk or severity of adverse effects increase
+The serum concentration increase
+The serum concentration decrease
+The therapeutic efficacy decrease
+the central nervous system depressant ( CNS depressant ) activities increase
+the QTc - prolonging activities increase
+the hypotensive activities increase
+The metabolism increase
+the antihypertensive activities decrease
+the hypoglycemic activities increase
+the anticoagulant activities increase
+The serum concentration of the active metabolites increase
+the bradycardic activities increase
+the serotonergic activities increase
+The therapeutic efficacy increase
+the hypokalemic activities increase
+the orthostatic hypotensive activities increase
+the cardiotoxic activities decrease
+the excretion rate which could result in a higher serum level decrease
+the atrioventricular blocking ( AV block ) activities increase
+the sedative activities decrease
+the tachycardic activities increase
+the hypertensive and vasoconstricting activities increase
+The risk or severity of QTc prolongation increase
+the antihypertensive activities increase
+the arrhythmogenic activities increase
+the cardiotoxic activities increase
+The risk or severity of hypotension increase
+the bronchodilatory activities decrease
+the hyperkalemic activities increase
+the nephrotoxic activities increase
+the hypertensive activities increase
+the vasoconstricting activities increase
+the neuroexcitatory activities increase
+the anticoagulant activities decrease
+the fluid increase
+the antiplatelet activities increase
+The serum concentration of the active metabolites reduce
+the immunosuppressive activities increase
+The risk or severity of bleeding increase
+the stimulatory activities decrease
+the vasoconstricting activities decrease
+The risk or severity of myelosuppression increase
+the thrombogenic activities increase
+the anticholinergic activities increase
+the analgesic activities increase
+an increase in the absorption resulting in an increased serum concentration and potentially a worsening of adverse effects cause
+The risk or severity of sedation and somnolence increase
+The risk or severity of rhabdomyolysis increase
+The risk or severity of hyperkalemia increase
+the hepatotoxic activities increase
+the respiratory depressant activities increase
+the myopathic rhabdomyolysis activities increase
+the vasopressor activities increase
+a decrease in the absorption resulting in a reduced serum concentration and potentially a decrease in efficacy cause
+the hyponatremic activities increase
+the excretion rate which could result in a lower serum level and potentially a reduction in efficacy increase
+The risk or severity of myopathy and rhabdomyolysis increase
+the neuromuscular blocking activities decrease
+The risk of a hypersensitivity reaction increase
+the hypocalcemic activities increase
+the vasodilatory activities increase
+the myelosuppressive activities increase
+the hyperglycemic activities increase
